@@ -1,4 +1,4 @@
-> This information is free to use and derive as you so wish. I ([Justin Jones](https://twitter.com/JsAndDotNet), UK South) would appreciate being credited with the original model. I take no responsibility for it, or derivations of it, in any way whatsoever. If you are going to do further research or make a product based on this work, [I'd love to be involved](https://twitter.com/JsAndDotNet) :blush:
+> This information is free to use and derive as you so wish. I ([Justin Jones](https://twitter.com/JsAndDotNet), UK South) would appreciate being credited with the original model. I take no responsibility for it, or derivations of it, in any way whatsoever. If you are going to do further research or make a product based on this work, feel free to [get in touch](https://twitter.com/JsAndDotNet). I'd love to be involved :blush: .
 
 ----
 
