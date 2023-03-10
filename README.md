@@ -97,7 +97,7 @@ Using an analogy, in scalable computer systems, there are two options:
 1.	Scale Up (use a bigger computer)
 2.	Scale Out (use lots of little computers)
 
-![scale up and out](./Images/scale-up-scale-out.png)
+![scale up and out](./Images/scale-up-scale-out.PNG)
 
 This can translate into the water and energy market. 
 
