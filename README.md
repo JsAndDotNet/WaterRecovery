@@ -37,7 +37,9 @@ There are also inhabited areas where non-saline water is available, but the wate
 
 In many areas around the world, the infrastructure is not present to provide water to living areas as required.
 
-This investigation looked to identify a means by which drinkable water could be obtained in a cheap manner. Thought was at the ‘individual’ scale, not at ‘government’ scale, meaning any solution should be cheap, mass producible and easy to transport.
+This investigation looked to identify a means by which drinkable water could be obtained in a cheap manner. 
+
+***Thought was at the ‘individual’ scale, not at ‘government’ scale, meaning any solution should be cheap, mass producible and easy to transport.***
 
 The solution aimed to avoid the use of complex/ expensive parts, such as filters.
 
